@@ -1,9 +1,9 @@
 class Proctor < Formula
   desc "Proctor CLI"
   homepage "https://github.com/gojektech/proctor"
-  url "https://github.com/gojektech/proctor/releases/download/v0.5.0/proctor_0.5.0_Darwin_x86_64.tar.gz"
-  version "0.5.0"
-  sha256 "36e94761b3823db88b2c61160811f97970401c59c1e1006c5a08c974a2ee3e51"
+  url "https://github.com/gojektech/proctor/releases/download/v0.6.0/proctor_0.6.0_Darwin_x86_64.tar.gz"
+  version "0.6.0"
+  sha256 "9944e97fbe6c5ee3b9882174fdd43ff4e5aaa3e8c2523ef4a721c4fba0b28622"
   head "https://github.com/gojektech/proctor.git"
 
   bottle :unneeded
